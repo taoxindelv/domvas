@@ -1,4 +1,5 @@
 # Domvas
+svg实现整个屏幕转为为图片。然后返回canvas回调
 
 ## Overview
 
